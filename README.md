@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @karansanghvi
 - 👀 I’m interested in Programming and Web Development
 - 🌱 I’m currently learning different programming languages and data structures
-- 💞️ I’m looking to collaborate on programming
-- 📫 How to reach me through instagram. My instagram id is- karansanghvi_ or through email(karansanghvi1303@gmail.com)
+- 💞️ I’m looking to collaborate on programming and web development
+- 📫 How to reach me through instagram. https://linktr.ee/karansanghvi
 
 <!---
 karansanghvi/karansanghvi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
