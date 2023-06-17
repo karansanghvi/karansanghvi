@@ -12,7 +12,7 @@
 
 - 📫 How to reach me **karansanghvi1303@gmail.com**
 
-- 📄 Know about my experiences [https://linktr.ee/karansanghvi](https://linktr.ee/karansanghvi)
+- 📄 Know about my experiences [https://karansanghvi.netlify.app/](https://karansanghvi.netlify.app/)
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
